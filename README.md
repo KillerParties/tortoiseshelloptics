@@ -1,2 +1,2 @@
 # tortoiseshelloptics
-Codecademy's Tortoiseshell Optics prject
+Codecademy's Tortoiseshell Optics project
